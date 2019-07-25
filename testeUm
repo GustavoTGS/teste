@@ -1,0 +1,8 @@
+#include<stdio.h>
+
+int main(){
+int te = 0;
+printf("teste: %d",te);
+te = 2;
+printf("teste2: %d", te);
+}
